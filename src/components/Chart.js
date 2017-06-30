@@ -30,15 +30,17 @@ class Chart extends Component{
           }
         ]
       }
-    };
+    }
   }
   render(){
     return(
       <div className="chart">
       <Bar
-      	data={this.state.chartdata}
+      	data={this.state.chartData}
 
-      	options={{}}
+      	options={{
+      		
+      	}}
       />
 
       </div>
