@@ -1,4 +1,4 @@
-import 'React', {Component} from 'react';
+import React, {Component} from 'react';
 
 class RegisterPage extends Component{
   render(){

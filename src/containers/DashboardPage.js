@@ -8,7 +8,7 @@ import {cyan600, pink600, purple600, orange600, yellow500, green500, red600} fro
 import Assessment from 'material-ui/svg-icons/action/assessment';
 //import SupervisorAccount from 'materila-ui/svg-icons/action/supervisor-account';
 
-import AccountBox from 'material-ui/svg-icons/action/account-box'
+import AccountBox from 'material-ui/svg-icons/action/account-box';
 import Face from 'material-ui/svg-icons/action/face';
 import Assignment from 'material-ui/svg-icons/action/assignment';
 import ExitToApp from 'material-ui/svg-icons/action/exit-to-app';

@@ -5,6 +5,7 @@ import LeftDrawer from '../components/LeftDrawer';
 import withWidth, {LARGE, SMALL} from 'material-ui/utils/withWidth';
 import ThemeDefault from '../theme-default';
 import Data from '../data';
+import Chart from '../components/Chart';
 
 
 
@@ -71,7 +72,7 @@ render() {
     <div style={styles.container}>
     {this.props.children}
     </div>
-
+  <Chart />
     </div>
 
     </MuiThemeProvider>
